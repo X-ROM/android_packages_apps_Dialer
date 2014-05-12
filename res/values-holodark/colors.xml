@@ -47,7 +47,7 @@
     <color name="background_dialpad">#ff111111</color>
 
     <!-- Background color where keypad digits are displayed -->
-    <color name="background_digits_dialpad">#222222</color>
+    <color name="background_digits_dialpad">#111111</color>
 
     <!-- Primary color of dialpad text, including the call button -->
     <color name="dialpad_primary_text_color">#ffffff</color>
